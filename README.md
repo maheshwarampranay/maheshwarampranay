@@ -1,4 +1,3 @@
-- Pranay Maheshwaram
 - B.E. CSE-AIML 2023-2027 @ Chaitanya Bharathi Institute of Technology
 - Enthusiast | Python | AI & ML | Music
 
